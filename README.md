@@ -1,2 +1,2 @@
-# Udemy---SpringCore-SpringRestAPI-SpringDataJPA-SpringValidation-SpringSecurity-JWT-SpringPagination
+# Udemy-Spring Core|Spring RestAPI|Spring Data JPA|Spring Validation|Spring Security|JWT|Spring Pagination
 Spring Core | Spring Rest API | Spring Data JPA | Spring Validation | JUnit5 | Spring Security + JWT | Spring Pagination
